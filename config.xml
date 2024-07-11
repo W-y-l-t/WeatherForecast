@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyWeatherConfiguration>
+    <ListOfCities>
+        <City>Saint Petersburg, RU</City>
+        <City>Miami, US</City>
+        <City>Tokyo, JP</City>
+        <City>Novosibirsk, RU</City>
+    </ListOfCities>
+    <UpdateFrequency>15</UpdateFrequency>
+    <NumberOfDays>3</NumberOfDays>
+</MyWeatherConfiguration>
